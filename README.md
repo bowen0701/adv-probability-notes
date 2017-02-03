@@ -1,6 +1,6 @@
 # Advanced Probability Lecture Notes
 
-This repo is to collect my notes which were written for preparing my Qual Exam for Advanced Probability in 2009. 
+This repo is to collect my notes which were written for preparing my Statistics PhD qual exam for Advanced Probability in 2009. 
 
 Nevertheless, the notes are only hand-written, and I do not have time to transform them into LaTex or Markdown documents yet; maybe I will try to find some time in the near future.
 
