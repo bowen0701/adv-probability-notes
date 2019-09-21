@@ -1,4 +1,4 @@
-# Advanced Probability Lecture Notes
+# Advanced Probability Notes
 
 This repo is to collect my notes for preparing my Statistics PhD qual exam for Advanced Probability in 2009. 
 
