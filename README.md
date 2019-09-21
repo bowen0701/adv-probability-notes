@@ -2,15 +2,15 @@
 
 This repo is to collect my notes for preparing my Statistics PhD qual exam for Advanced Probability in 2009. 
 
-Nevertheless, the notes are only hand-written, and I do not have time to transform them into LaTex or Markdown documents yet; maybe I will try to find some time in the near future. :-)
+Nevertheless, the notes are only hand-written, and I do not have time to re-write them to LaTex or Markdown documents yet; maybe I will try to find some time in the near future. :)
 
-- [Lecture 1: Probability Fundamentals](./notes/probability_ch1.pdf)
-- [Lecture 2: Stochastic Convergences](./notes/probability_ch2.pdf)
-- [Lecture 3: Laws of Large Numbers](./notes/probability_ch3.pdf)
-- [Lecture 4: Weak Convergence](./notes/probability_ch4.pdf)
-- [Lecture 5: Central Limit Theorems](./notes/probability_ch5.pdf)
-- [Lecture 6: Martingales](./notes/probability_ch6.pdf)
-- [Exercise 1 for Laws of Large Numbers](./notes/probability_ex1.pdf)
-- [Exercise 2 for Weak Convergence](./notes/probability_ex2.pdf)
-- [Exercise 3 for Central Limit Theorems](./notes/probability_ex3.pdf)
-- [Exercise 4 for Martingales](./notes/probability_ex4.pdf)
+- [Chapter 1: Probability Fundamentals](./probability_ch1.pdf)
+- [Chapter 2: Stochastic Convergences](./probability_ch2.pdf)
+- [Chapter 3: Laws of Large Numbers](./probability_ch3.pdf)
+- [Chapter 4: Weak Convergence](./probability_ch4.pdf)
+- [Chapter 5: Central Limit Theorems](./probability_ch5.pdf)
+- [Chapter 6: Martingales](./probability_ch6.pdf)
+- [Exercise 1: Laws of Large Numbers](./probability_ex1.pdf)
+- [Exercise 2: Weak Convergence](./probability_ex2.pdf)
+- [Exercise 3: Central Limit Theorems](./probability_ex3.pdf)
+- [Exercise 4: Martingales](./probability_ex4.pdf)
